@@ -13,3 +13,8 @@ wiki/1
 §§ Consensus Algorithm
 
 **Berachain** uses the [[proof-of-liquidity]] [[consensus-algorithm]].
+
+§§ Validator Nodes
+
+Before //version 2// of **berachain**, **berchain** had a limit of 100 **validator nodes**.
+But, as of //version 2// of **berachain**, **berachain** now has a limit of 128 **validator nodes**.
