@@ -1,0 +1,15 @@
+wiki/1
+
+§ Berachain
+
+⸺ by Charles Iliya Krempeaux
+
+**Berachain** is a [[blockchain-network]] built using the [[cosmos-sdk]].
+
+§§ Currency
+
+**Berachain**'s native currency is called **BERA**.
+
+§§ Consensus Algorithm
+
+**Berachain** uses the [[proof-of-liquidity]] [[consensus-algorithm]].
