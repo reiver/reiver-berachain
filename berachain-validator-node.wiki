@@ -8,4 +8,4 @@ A **berachain validator node** helps append new blocks to the [[berachain]] bloc
 
 A **berachain validator node** is involved with the [[proof-of-liquidity]] [[consensus-algorithm]].
 
-As of [[berachain]] v2, a **berachain validator node** needs to stake 69,420 [[bera]].
+As of [[berachain]] v2, a **berachain validator node** needs to stake 69,420 [[bera]], but the exact details for **berachain** [[main-net]] are still (as of v2) still unknown.
