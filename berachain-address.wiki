@@ -1,0 +1,15 @@
+wiki/1
+
+§ Berachain Address
+
+⸺ by Charles Iliya Krempeaux
+
+A **berachain address** is a person's, organizations, etc, representation on the [[berachain]] [[blockchain-network]].
+
+For example, tt is what holds the [[bera]] token, the [[berachain-governance-token]] ($BGT), etc.
+
+§§ Compatibility
+
+A **berachain address** is the same as an [[evm-address]].
+
+In fact, one can use any [[evm-address]] with [[berachain]], including an [[ethereum-address]], a monad-address, a polygon-address, a sonic-address, etc.
