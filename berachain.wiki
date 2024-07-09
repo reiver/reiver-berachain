@@ -18,3 +18,10 @@ wiki/1
 
 Before //version 2// of **berachain**, **berchain** had a limit of 100 **validator nodes**.
 But, as of //version 2// of **berachain**, **berachain** now has a limit of 128 **validator nodes**.
+
+§§ Chain-ID
+
+The [[chain-id]] to the **berachain** v2 [[testnet]] is ``80084``.
+
+
+The [[chain-id]] to the **berachain** v1 [[testnet]] is ``80085``.
