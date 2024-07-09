@@ -25,3 +25,8 @@ The [[chain-id]] to the **berachain** v2 [[testnet]] is ``80084``.
 
 
 The [[chain-id]] to the **berachain** v1 [[testnet]] is ``80085``.
+
+§§ See Also
+
+• [[berachain-address]]
+• [[berachain-governance-token]] (**BGT**)
