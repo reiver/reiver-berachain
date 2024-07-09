@@ -30,3 +30,4 @@ The [[chain-id]] to the **berachain** v1 [[testnet]] is ``80085``.
 
 • [[berachain-address]]
 • [[berachain-governance-token]] (**BGT**)
+• [[berachain-validator-node]]
