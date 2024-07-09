@@ -1,0 +1,20 @@
+wiki/1
+
+§ Berachain Governance Token
+
+⸺ by Charles Iliya Krempeaux
+
+The **berachain governance token** (**BGT**) is a //native// token of [[berachain]] used for //governance//.
+
+**Berachain Governance Token** is often shortened to either **BGT** of **$BGT**.
+
+One key part of [[berachain]]'s design is the separation of the gas token [[bera]] from the //governance token// (**$BGT**).
+The hope is that this separation helps address the risk of //staking centralization// and encourages a more balanced distribution of control of the blockchain-network.
+
+Once an [[berachain-address]] has been awarded **$BGT**, it cannot be transferred to another [[berachain-address]].
+It can however be //delegated// to try to earn and accumulate rewards.
+And it can be traded one-for-one with the //gas token// [[bera]].
+
+**$BGT** can be earned and accumulated by performing certain actions with a [[berachain-authorized-dapp]].
+
+A holder of **$BGT** can delegate **$BTG** to earn and accumulate various rewards.
